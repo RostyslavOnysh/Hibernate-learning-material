@@ -3,13 +3,11 @@ package org.example;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- * Hello world!
- */
-public class main {
+
+public class Main {
     public static void main(String[] args) {
         try {
-            Class.forName("com.mysql.jdbc.Driver");
+            Class.forName("com.mysql.cj.jdbc.Driver");
             DriverManager.getConnection("jdbc:localhost:3306/library_db");
         } catch (ClassNotFoundException e) {
             throw new RuntimeException("Can`t load JDBC Driver for MySQL",e);

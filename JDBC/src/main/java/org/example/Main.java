@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            DriverManager.getConnection("jdbc:localhost:3306/library_db");
+            DriverManager.getConnection("jdbc:mysql://localhost:3306/library_db");
         } catch (ClassNotFoundException e) {
             throw new RuntimeException("Can`t load JDBC Driver for MySQL",e);
         } catch (SQLException throwables) {

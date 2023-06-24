@@ -1,22 +1,34 @@
 package org.example;
 
-import java.sql.DriverManager;
+import org.example.model.LiteraryFormat;
+import org.example.util.ConnectionUtil;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.Properties;
+import java.sql.Statement;
+
 
 
 public class Main {
     public static void main(String[] args) {
+        Connection connection = ConnectionUtil.getConnection();
+        Statement getAllFormatsStatment = null;
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver");
-            Properties dbProperties = new Properties();
-            dbProperties.put("user", "root");
-            dbProperties.put("password", "13289812");
-            DriverManager.getConnection("jdbc:mysql://localhost:3306/library_db",dbProperties);
-        } catch (ClassNotFoundException e) {
-            throw new RuntimeException("Can`t load JDBC Driver for MySQL", e);
-        } catch (SQLException throwables) {
-            throw new RuntimeException("Can`t create connection to Database", throwables);
+            getAllFormatsStatment = connection.createStatement();
+            ResultSet resultSet = getAllFormatsStatment
+                    .executeQuery("SELECT * FROM literary_formats");
+            while (resultSet.next()) {
+                String format = resultSet.getString("format");
+                Long id = resultSet.getObject("id", Long.class);
+                LiteraryFormat literaryFormat = new LiteraryFormat();
+                literaryFormat.setId(id);
+                literaryFormat.setFormat(format);
+                System.out.println(literaryFormat);
+            }
+        } catch (SQLException e) {
+            throw new RuntimeException("Can`t get all formats from DB", e);
         }
+
     }
 }

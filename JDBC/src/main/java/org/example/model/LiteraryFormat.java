@@ -2,7 +2,8 @@ package org.example.model;
 
 public class LiteraryFormat {
     private Long id;
-    private String title;
+
+    private String format;
 
     public Long getId() {
         return id;
@@ -12,11 +13,19 @@ public class LiteraryFormat {
         this.id = id;
     }
 
-    public String getTitle() {
-        return title;
+    public void setFormat(String format) {
+        this.format = format;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
+    public String getFormat() {
+        return format;
+    }
+
+    @Override
+    public String toString() {
+        return "LiteraryFormat{" +
+                "id=" + id +
+                ", format='" + format + '\'' +
+                '}';
     }
 }

@@ -14,10 +14,8 @@ public class LiteraryFormatDaoImpl implements LiteraryFormatDao {
     @Override
     public List<LiteraryFormat> getAll() {
         List<LiteraryFormat> allFormats = new ArrayList<>();
-        Connection connection = ConnectionUtil.getConnection();
-        Statement getAllFormatsStatment = null;
-        try {
-            getAllFormatsStatment = connection.createStatement();
+        try (Connection connection = ConnectionUtil.getConnection();
+             Statement getAllFormatsStatment = connection.createStatement();) {
             ResultSet resultSet = getAllFormatsStatment
                     .executeQuery("SELECT * FROM literary_formats");
             while (resultSet.next()) {

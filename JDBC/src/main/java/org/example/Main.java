@@ -1,20 +1,26 @@
 package org.example;
 
+import org.example.dao.BookDao;
+import org.example.dao.BookDaoImpl;
 import org.example.dao.LiteraryFormatDao;
 import org.example.dao.LiteraryFormatDaoImpl;
+import org.example.model.Book;
 import org.example.model.LiteraryFormat;
+
+import java.math.BigDecimal;
 
 public class Main {
     public static void main(String[] args) {
-       LiteraryFormat format = new LiteraryFormat();
-        LiteraryFormatDao literaryFormat = new LiteraryFormatDaoImpl();
-        format.setFormat("novels");
-      //  LiteraryFormatDao literaryFormat = new LiteraryFormatDaoImpl();
-       LiteraryFormat savedFormat = literaryFormat.create(format);
-       // System.out.println(savedFormat);
+        LiteraryFormatDao literaryFormatDao = new LiteraryFormatDaoImpl();
+        LiteraryFormat format = new LiteraryFormat();
+        format.setFormat("poema");
+        LiteraryFormat savedFormat = literaryFormatDao.create(format);
 
-     System.out.println(literaryFormat.delete(savedFormat.getId()));
-
-        literaryFormat.getAll().forEach(System.out::println);
+        BookDao bookDao = new BookDaoImpl();
+        Book book = new Book();
+        book.setTitle("WIJ");
+        book.setPrice(BigDecimal.valueOf(200));
+        book.setLiteraryFormat(savedFormat); // Assign the savedFormat to the book's literaryFormat
+        bookDao.create(book);
     }
 }

@@ -1,5 +1,6 @@
 package org.example.dao;
 
+import org.example.model.Book;
 import org.example.model.LiteraryFormat;
 import org.example.util.ConnectionUtil;
 
@@ -10,6 +11,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class LiteraryFormatDaoImpl implements LiteraryFormatDao {
     @Override
@@ -68,5 +70,4 @@ public class LiteraryFormatDaoImpl implements LiteraryFormatDao {
             throw new RuntimeException("Can`t insert format to DB", e);
         }
     }
-
 }

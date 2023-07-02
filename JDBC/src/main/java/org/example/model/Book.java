@@ -1,6 +1,7 @@
 package org.example.model;
 
 import java.math.BigDecimal;
+import java.util.List;
 
 
 public class Book {
@@ -43,6 +44,14 @@ public class Book {
         this.literaryFormat = literaryFormat;
     }
 
+
+    public List<Author> getAuthors() {
+        return authors;
+    }
+
+    public void setAuthors(List<Author> authors) {
+        this.authors = authors;
+    }
 
     @Override
     public String toString() {

@@ -1,9 +1,9 @@
 package org.example;
 
-import org.example.dao.BookDao;
-import org.example.dao.BookDaoImpl;
-import org.example.dao.LiteraryFormatDao;
-import org.example.dao.LiteraryFormatDaoImpl;
+import org.example.dao.book.BookDao;
+import org.example.dao.book.BookDaoImpl;
+import org.example.dao.litFormat.LiteraryFormatDao;
+import org.example.dao.litFormat.LiteraryFormatDaoImpl;
 import org.example.model.Book;
 import org.example.model.LiteraryFormat;
 

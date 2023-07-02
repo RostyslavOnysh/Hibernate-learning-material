@@ -1,4 +1,4 @@
-package org.example.dao;
+package org.example.dao.litFormat;
 
 import org.example.model.Book;
 import org.example.model.LiteraryFormat;

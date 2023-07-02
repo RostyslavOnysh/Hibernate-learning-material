@@ -1,4 +1,4 @@
-package org.example.dao;
+package org.example.dao.book;
 
 import org.example.model.Book;
 

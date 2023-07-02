@@ -34,6 +34,39 @@ public class BookDaoImpl implements BookDao {
         } catch (SQLException e) {
             throw new RuntimeException("Can`t create insert format to DB", e);
         }
+        insertAuthors(book);
+        return book;
+
+
+    }
+
+    private void insertAuthors(Book book) {
+        String insertAuthorQuery = "INSERT INTO books_authors "
+                + "(book_id, author_id)"
+                + "VALUES (?, ?);";
+        try (Connection connection = ConnectionUtil.getConnection();
+             PreparedStatement addAuthorToBookStatement = connection.prepareStatement(insertAuthorQuery)) {
+            addAuthorToBookStatement.setLong(1, book.getId());
+            for (Author author : book.getAuthors()) {
+                addAuthorToBookStatement.setLong(2, author.getId());
+                addAuthorToBookStatement.executeUpdate();
+            }
+        } catch (SQLException e) {
+            throw new RuntimeException("Can`t insert authors to book" + book, e);
+        }
+    }
+
+    @Override
+    public Book update(Book book) {
+        /*
+        1. update books fields
+        2. delete all relations in books_author where bookId = book.getId()
+         головне не видалити абсолютно всі відошення з табличкою books_authors
+        3. add new retalions to the books authors table
+        4.оновлюємо всі поля які є в книзі (title etc.),потім видаляємо всі данні з таблички books_authors
+        для нашої конкретної книги, і потім вже додати нові звязки в ту саму табличку
+         */
+
         return book;
     }
 
@@ -47,7 +80,7 @@ public class BookDaoImpl implements BookDao {
                 "FROM books b " +
                 "JOIN literary_formats lf " +
                 "ON b.literary_format_id = lf.id " +
-                "WHERE b.id = 3; ";
+                "WHERE b.id = ? AND b.is_deleted = false;";
         Book book = null;
         try (Connection connection = ConnectionUtil.getConnection();
              PreparedStatement getFormatsStatment = connection.prepareStatement(
@@ -87,21 +120,35 @@ public class BookDaoImpl implements BookDao {
         try (Connection connection = ConnectionUtil.getConnection();
              PreparedStatement getAllAuthorStatement =
                      connection.prepareStatement(getAllAuthorsForBookRequest)) {
-            getAllAuthorStatement.setLong(1,bookId);
+            getAllAuthorStatement.setLong(1, bookId);
             ResultSet resultSet = getAllAuthorStatement.executeQuery();
             List<Author> authors = new ArrayList<>();
             while (resultSet.next()) {
                 authors.add(parseAuthorsFromResultSet(resultSet));
             }
             return authors;
-        }catch (SQLException e) {
-            throw new RuntimeException("Can`t find authors in DB by book bookId" + bookId,e);
+        } catch (SQLException e) {
+            throw new RuntimeException("Can`t find authors in DB by book bookId" + bookId, e);
         }
     }
 
-    private Author parseAuthorsFromResultSet (ResultSet resultSet) throws SQLException {
+    @Override
+    public boolean delete(Long bookId) {
+        String deleteQury = "UPDATE books SET is_deleted = TRUE WHERE id = ?;";
+        try (Connection connection = ConnectionUtil.getConnection();
+             PreparedStatement softDeleteBookStatement =
+                     connection.prepareStatement(deleteQury)) {
+            softDeleteBookStatement.setLong(1, bookId);
+            int numberOFDeletedRows = softDeleteBookStatement.executeUpdate();
+            return numberOFDeletedRows != 0;
+        }catch (SQLException e) {
+            throw new RuntimeException("Cant delete with id = " + bookId,e);
+        }
+    }
+
+    private Author parseAuthorsFromResultSet(ResultSet resultSet) throws SQLException {
         Author author = new Author();
-        author.setId(resultSet.getObject("id",Long.class));
+        author.setId(resultSet.getObject("id", Long.class));
         author.setName(resultSet.getString("name"));
         author.setLastname(resultSet.getString("lastname"));
         return author;

@@ -6,7 +6,7 @@
     
     <servlet>
         <servlet-name>indexController</servlet-name>
-        <servlet-class>mate.controller.indexController</servlet-class>
+        <servlet-class>mate.controller.IndexController</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>indexController</servlet-name>

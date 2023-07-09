@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jv-logger" />
+        <module name="oop-example" />
+        <module name="read-from-file" />
+        <module name="hash-map (1)" />
+        <module name="pecs (2)" />
+        <module name="jv-checked-exception" />
+        <module name="storage" />
+        <module name="Logger" />
+        <module name="Solid" />
+        <module name="jv-fruit-shop-tests" />
+        <module name="jv-work-with-file" />
+        <module name="robot" />
+        <module name="jv-dependency-injection" />
+        <module name="linked-list (3)" />
+        <module name="JUnit" />
+        <module name="linked-list (1)" />
+        <module name="FirstTry" />
+        <module name="JDBC" />
+        <module name="setQueueStackComparator" />
+        <module name="salaryInfo" />
+        <module name="array-list" />
+        <module name="jv-lottery" />
+        <module name="hash-map (2)" />
+        <module name="JavaCore" />
+        <module name="pecs (1)" />
+        <module name="Java8P1" />
+        <module name="immutable" />
+        <module name="linked-list (2)" />
+        <module name="registration-validation" />
+        <module name="depencencyInjection" />
+        <module name="jv-fruit-shop" />
+        <module name="strategy" />
+        <module name="jv-oop-advanced" />
+        <module name="jv-stream-github-practice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hash-map" target="1.5" />
+      <module name="linked-list" target="1.5" />
+      <module name="pecs" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/PECS/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/Solid/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-oop/pom.xml" />
+        <option value="$PROJECT_DIR$/Logger/pom.xml" />
+        <option value="$PROJECT_DIR$/HashMap/pom.xml" />
+        <option value="$PROJECT_DIR$/Java8P1/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-pecs/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaCore/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-robot/pom.xml" />
+        <option value="$PROJECT_DIR$/hbgfcxcvb/pom.xml" />
+        <option value="$PROJECT_DIR$/Immutable/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/Jv-HashMap/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-lottery/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-storage/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-hash-map/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-immutable/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-array-list/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-fruit-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-linked-list/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-salary-info/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-oop-advanced/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-read-from-file/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-work-with-file/pom.xml" />
+        <option value="$PROJECT_DIR$/depencencyInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-fruit-shop-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-checked-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-dependency-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/setQueueStackComparator/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-stream-github-practice/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-registration-validation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

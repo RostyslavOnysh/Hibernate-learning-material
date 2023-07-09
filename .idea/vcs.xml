@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HashMap/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Immutable/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/setQueueStackComparator/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/setQueueStackComparator/src/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/setQueueStackComparator/src/main/java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/solvingTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/solvingTasks/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/solvingTasks/src/MateAcademy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled1" vcs="Git" />
+  </component>
+</project>

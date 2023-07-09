@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d270418-f497-415c-8f1e-42fb98a0eacb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HashMap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMap/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCore/src/main/java/org/example/TestetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid/database.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid/src/main/java/org/Solid/SRP/dao/AccountDaoCsvImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setQueueStackComparator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setQueueStackComparator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setQueueStackComparator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setQueueStackComparator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setQueueStackComparator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setQueueStackComparator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setQueueStackComparator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMap/src/main/java/HomeWork/jv_hashMap/Solv/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/src/main/java/HomeWork/jv_hashMap/Solv/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/main/java/org/example/dao/LiteraryFormatDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/src/main/java/org/example/dao/LiteraryFormatDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8P1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java8P1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/ClassicSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/ClassicSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/FootballMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/FootballMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/IteratirExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/IteratirExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/IteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/IteratorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/SimpleAnnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/SimpleAnnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/StringBuilderMethod/DailyPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/StringBuilderMethod/DailyPlanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/aslistmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/aslistmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/t1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCore/src/main/java/JavaCore/Garbage/t1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Logger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logger/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logger/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PECS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PECS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Solid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid/src/main/java/org/Solid/SRP/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid/src/main/java/org/Solid/SRP/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid/src/main/java/org/Solid/SRP/dao/AccountDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid/src/main/java/org/Solid/SRP/dao/AccountDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/depencencyInjection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/app/AtmApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/app/BankOperatorApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/app/ClientApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/model/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/service/BankService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depencencyInjection/src/main/java/org/example/intro/service/impl/BankServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hbgfcxcvb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hbgfcxcvb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hbgfcxcvb/src/main/java/core/basesyntax/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hbgfcxcvb/src/main/java/core/basesyntax/exception/Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hbgfcxcvb/src/test/java/core/basesyntax/HelloWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-dependency-injection/src/test/java/mate/academy/lib/InjectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jv-dependency-injection/src/test/java/mate/academy/lib/InjectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-fruit-shop-tests/src/main/java/core/basesyntax/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-fruit-shop-tests/src/test/java/core/basesyntax/HelloWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-fruit-shop/checklist.md" beforeDir="false" afterPath="$PROJECT_DIR$/jv-fruit-shop/checklist.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-fruit-shop/src/main/java/core/basesyntax/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-fruit-shop/src/main/resources/report.csv" beforeDir="false" afterPath="$PROJECT_DIR$/jv-fruit-shop/src/main/resources/report.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-hash-map/src/main/java/core/basesyntax/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/jv-hash-map/src/main/java/core/basesyntax/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-hash-map/src/test/java/core/basesyntax/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/jv-hash-map/src/test/java/core/basesyntax/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-hash-map/src/test/java/core/basesyntax/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/jv-hash-map/src/test/java/core/basesyntax/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-hash-map/src/test/java/core/basesyntax/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/jv-hash-map/src/test/java/core/basesyntax/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-lottery/src/main/java/core/basesyntax/ColorSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/jv-lottery/src/main/java/core/basesyntax/ColorSupplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-oop-advanced/src/main/java/core/basesyntax/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-registration-validation/src/main/java/core/basesyntax/service/RegistrationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jv-registration-validation/src/main/java/core/basesyntax/service/RegistrationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-registration-validation/src/test/java/core/basesyntax/HelloWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-robot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jv-robot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-strategy/src/main/java/core/basesyntax/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv-work-with-file/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jv-work-with-file/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/Queue/Deque/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/Queue/Deque/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/Queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/Queue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/Stack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/Stack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/TreeSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/TreeSet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/TreeSet/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/TreeSet/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/interfaceset/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/interfaceset/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/interfaceset/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/setQueueStackComparator/src/main/java/mainFolder/interfaceset/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/solvingTasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ArraysExtended/Build/Building.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ArraysExtended/Build/getNumberOfFlats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ArraysExtended/CreateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ArraysExtended/MarkStringEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ArraysExtended/YesNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ArraysExtended/neighboursCells.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ClassInheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ClassInheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ClassInheritance/PublicAccessMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ClassInheritancePrivate/AdultUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ClassInheritancePrivate/UserAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/ClassInheritancePrivate/UserMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/CenturyFromYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/Cockroach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/ConvertBooleanToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/ConvertIntToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/DoubleCHar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/GradeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/MinMAxNumberFromArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/Multiply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/RemoveExclamationMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/RemoveSpaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/nonConsecutiveNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/CodeWars/squareNsum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/Employed/GetPercentOfEmployedStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/Employed/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/BitManipulation/DividerNumbToBinaryToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/BitManipulation/DoubledNumb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/BitManipulation/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/BitManipulation/isFalse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/DailyPlanner/Planner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/Clone/Adress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/Clone/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/Clone/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/EqualsOverride/M.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/EqualsOverride/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/FirstTask/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/FirstTask/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/FirstTask/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/SecondTask/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/SecondTask/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/OwnException/AuthenticationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/OwnException/AuthenticationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/OwnException/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/PasswordValidator/PasswordValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/PasswordValidator/PasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/PasswordValidator/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/PasswordValidator/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/SalaryInfo/SalaryInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/Stacktrace/stacktrace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/BufferWriter/FileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/BufferWriter/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/TryWithResources/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/UserScope/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/UserScope/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/UserScope/userScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/exception2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/mailSending/MailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/mailSending/MailServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/mailSending/MessageProcessingException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Exception/mailSending/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/BifferedWriterFlush/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/HowToReadDataFronFile/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/HowToWriteDataToFile/AnotherMethod/writePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/HowToWriteDataToFile/UsingBufferedWriter/example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/HowToWriteDataToFile/UsingBufferedWriter/example2UsingTryWithResources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/Tasks/WorkWithFile/ReadAndWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/WriteByteToFile/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/Files/example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/FootballMatch/Fotball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/Example/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/Example/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/Example/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/InterfaceExtending/Drivable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/InterfaceExtending/Ford.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/InterfaceExtending/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Sparrow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Swimmable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Vechicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/ClassRandom/DayOfWeekSupplier/DayWeekRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/ClassRandom/DayOfWeekSupplier/ENUMForRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/ClassRandom/DayOfWeekSupplier/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/ClassRandom/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/ENUM/Season.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/ENUM/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example/Examp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example/SuperStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example2/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example2/animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Example2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_Lottery/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_Lottery/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_Lottery/ColorSupplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_Lottery/DifferentColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_OOP/Bulldozer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_OOP/Excavator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_OOP/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_OOP/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_OOP/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_OOP/mainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_Robot/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_Robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/JV_Robot/RobotRoute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Task/Printer/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/OOP/Task/Printer/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/SecondExample/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/SecondExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/HwPatternAndRecursion/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/HwPatternAndRecursion/SongOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/getFibonacciSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/task1Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StaticFactoryMethod/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StaticFactoryMethod/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/BikeRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/CarRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/PublicTransportRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/RouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/RouteStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/WalkingRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/JavaCore/matrix/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/Method/Overloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/Method/shoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/MethodAdvanced/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/MethodAdvanced/Fighterwin/Fighter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/MethodAdvanced/Fighterwin/FighterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/MethodAdvanced/Fighterwin/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/MethodAdvanced/PaginationService/PaginationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/MethodAdvanced/ShoeManiac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/MethodAdvanced/forbiddenLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/Switch/CreateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/Switch/GetScoreMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/Switch/PaymentSystemSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/TheBiggestArray/Arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/classesAdvanced/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/classesAdvanced/CreateParcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/classesAdvanced/CreateUserConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/matchResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/maxMinWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ArraysExtended/Build/Building.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ArraysExtended/Build/getNumberOfFlats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ArraysExtended/CreateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ArraysExtended/MarkStringEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ArraysExtended/YesNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ArraysExtended/neighboursCells.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ClassInheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ClassInheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ClassInheritance/PublicAccessMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ClassInheritancePrivate/AdultUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ClassInheritancePrivate/UserAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/ClassInheritancePrivate/UserMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/CenturyFromYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/Cockroach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/ConvertBooleanToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/ConvertIntToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/DoubleCHar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/GradeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/MinMAxNumberFromArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/Multiply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/RemoveExclamationMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/RemoveSpaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/nonConsecutiveNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/CodeWars/squareNsum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/BitManipulation/DividerNumbToBinaryToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/BitManipulation/DoubledNumb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/BitManipulation/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/BitManipulation/isFalse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/DailyPlanner/Planner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/Clone/Adress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/Clone/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/Clone/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/EqualsOverride/M.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/EqualsOverride/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/FirstTask/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/FirstTask/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/FirstTask/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/SecondTask/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/EqualsAndHashcodeAndClone/HW/SecondTask/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/OwnException/AuthenticationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/OwnException/AuthenticationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/OwnException/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/PasswordValidator/PasswordValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/PasswordValidator/PasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/PasswordValidator/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/PasswordValidator/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/SalaryInfo/SalaryInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/Stacktrace/stacktrace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/BufferWriter/FileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/BufferWriter/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/TryCatchFinnaly/TryWithResources/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/UserScope/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/UserScope/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/UserScope/userScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/exception2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/mailSending/MailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/mailSending/MailServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/mailSending/MessageProcessingException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Exception/mailSending/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/BifferedWriterFlush/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/HowToReadDataFronFile/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/HowToWriteDataToFile/AnotherMethod/writePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/HowToWriteDataToFile/UsingBufferedWriter/example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/HowToWriteDataToFile/UsingBufferedWriter/example2UsingTryWithResources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/Tasks/WorkWithFile/ReadAndWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/WriteByteToFile/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/Files/example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/FootballMatch/Fotball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/Example/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/Example/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/Example/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/StaticKeyword/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/InterfaceExtending/Drivable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/InterfaceExtending/Ford.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/InterfaceExtending/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Sparrow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/PracticeUsage/Swimmable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/Vechicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/AbstrClassORInterface/WhatIsInterface/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/ClassRandom/DayOfWeekSupplier/DayWeekRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/ClassRandom/DayOfWeekSupplier/ENUMForRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/ClassRandom/DayOfWeekSupplier/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/ClassRandom/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/ENUM/Season.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/ENUM/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example/Examp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example/SuperStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example2/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example2/animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Example2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_Lottery/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_Lottery/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_Lottery/ColorSupplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_Lottery/DifferentColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_OOP/Bulldozer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_OOP/Excavator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_OOP/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_OOP/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_OOP/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_OOP/mainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_Robot/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_Robot/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/JV_Robot/RobotRoute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Task/Printer/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/OOP/Task/Printer/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/SecondExample/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Builder/SecondExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/HwPatternAndRecursion/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/HwPatternAndRecursion/SongOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/getFibonacciSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/Rrecursion/task1Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StaticFactoryMethod/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StaticFactoryMethod/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/BikeRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/CarRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/PublicTransportRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/RouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/RouteStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/PatternAndRecursion/StrategyPattern/WalkingRouteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/JavaCore/matrix/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/MethodAdvanced/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/MethodAdvanced/Fighterwin/Fighter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/MethodAdvanced/Fighterwin/FighterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/MethodAdvanced/Fighterwin/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/MethodAdvanced/PaginationService/PaginationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/MethodAdvanced/ShoeManiac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/MethodAdvanced/forbiddenLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/Switch/CreateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/Switch/GetScoreMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/Switch/PaymentSystemSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/classesAdvanced/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/classesAdvanced/CreateParcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvingTasks/src/MateAcademy/src/MateAcademy/classesAdvanced/CreateUserConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Array/ArraySquare.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Study" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ReaM52JjGt7mnYhlwa4v3GTGXk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/rosps/IdeaProjects/Study",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d270418-f497-415c-8f1e-42fb98a0eacb" name="Changes" comment="" />
+      <created>1687612949573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687612949573</updated>
+      <workItem from="1687612950634" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -6,13 +6,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public class GetAllUsersController extends HttpServlet {
+public class IndexController extends HttpServlet {
 
     static {
         System.out.println("IndexController was loaded after load-on-startup. . . ");
     }
 
-    public GetAllUsersController() {
+    public IndexController() {
         System.out.println("IndexController was called");
     }
 

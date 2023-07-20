@@ -1,6 +1,7 @@
 package org.example.model;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -18,7 +19,7 @@ public class User {
     private String login;
     private String password;
 
-    @OneToMany(mappedBy = "owner")    // What is mappedBy ??
+    @OneToMany(mappedBy = "owner", fetch = FetchType.EAGER)    // What is mappedBy ??
     private List<Order> orders;
 
     public User() {

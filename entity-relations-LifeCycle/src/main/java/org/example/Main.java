@@ -8,22 +8,26 @@ import org.example.model.Order;
 import org.example.model.User;
 
 import java.time.LocalDateTime;
+import java.util.List;
+import java.util.Optional;
 
 
 public class Main {
     public static void main(String[] args) {
-        User bob = new User();
-        bob.setLogin("Bob");
-        bob.setPassword("1234");
-        UserDao userDao = (UserDao) new UserDaoImpl();
-        User bobikFromDb = userDao.save(bob);
 
         Order order = new Order();
         order.setOrderDate(LocalDateTime.now());
-        order.setOwner(bobikFromDb);
         OrderDao orderDao = new OrderDaoImpl();
         orderDao.save(order);
+        Order orderFromDb = orderDao.get(1L).orElse(null);
 
-        System.out.println(orderDao.get(1L));
+        System.out.println(orderFromDb);
+
+        User bob = new User();
+        bob.setLogin("Bob");
+        bob.setPassword("1234");
+        bob.setOrders(List.of(orderFromDb));
+        UserDao userDao = (UserDao) new UserDaoImpl();
+        userDao.save(bob);
     }
 }

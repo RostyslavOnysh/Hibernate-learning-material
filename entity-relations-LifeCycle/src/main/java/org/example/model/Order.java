@@ -17,8 +17,6 @@ public class Order {
     private Long id;
     private LocalDateTime orderDate;
 
-    @ManyToOne
-    private User owner;
 
     public Long getId() {
         return id;
@@ -36,20 +34,12 @@ public class Order {
         this.orderDate = orderDate;
     }
 
-    public User getOwner() {
-        return owner;
-    }
-
-    public void setOwner(User owner) {
-        this.owner = owner;
-    }
 
     @Override
     public String toString() {
-        return "Order{"
-                + "id=" + id
-                + ", orderDate=" + orderDate
-                + ", owner=" + owner
-                + '}';
+        return "Order{" +
+                "id=" + id +
+                ", orderDate=" + orderDate +
+                '}';
     }
 }

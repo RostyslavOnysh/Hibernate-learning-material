@@ -18,7 +18,7 @@ public class User {
     private String login;
     private String password;
 
-    @OneToMany
+    @OneToMany(mappedBy = "owner")    // What is mappedBy ??
     private List<Order> orders;
 
     public User() {
